@@ -43,6 +43,7 @@
   color: rgb(206, 206, 206);
   text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0),
     -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+  /* -webkit-text-stroke: 1px rgba(255, 0, 242, 0.322); */
   line-height: 2.9rem;
   letter-spacing: 0.01em;
 }
